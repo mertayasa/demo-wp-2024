@@ -1,0 +1,78 @@
+.elementor-kit-131{--e-global-color-primary:#6EC1E4;--e-global-color-secondary:#54595F;--e-global-color-text:#7A7A7A;--e-global-color-accent:#61CE70;--e-global-color-78aba2d:#E0FB60;--e-global-color-c087528:#1675ED;--e-global-typography-primary-font-family:"Roboto";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;--e-global-typography-792fa5a-font-family:"Chesna Grotesk";--e-global-typography-792fa5a-font-weight:300;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-block-end:0px;}.elementor-element{--widgets-spacing:0px 0px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-131 e-page-transition{background-color:#FFBC7D;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Chesna Grotesk';
+	font-style: normal;
+	font-weight: 100;
+	font-display: auto;
+	src: url('https://webstein.debaliprtn.com/wp-content/uploads/2024/01/ChesnaGrotesk-Light.eot');
+	src: url('https://webstein.debaliprtn.com/wp-content/uploads/2024/01/ChesnaGrotesk-Light.eot?#iefix') format('embedded-opentype'),
+		url('https://webstein.debaliprtn.com/wp-content/uploads/2024/01/ChesnaGrotesk-ExtraLight.woff2') format('woff2'),
+		url('https://webstein.debaliprtn.com/wp-content/uploads/2024/01/ChesnaGrotesk-ExtraLight.woff') format('woff'),
+		url('https://webstein.debaliprtn.com/wp-content/uploads/2024/01/ChesnaGrotesk-ExtraLight.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Chesna Grotesk';
+	font-style: normal;
+	font-weight: 200;
+	font-display: auto;
+	src: url('https://webstein.debaliprtn.com/wp-content/uploads/2024/01/ChesnaGrotesk-Thin.eot');
+	src: url('https://webstein.debaliprtn.com/wp-content/uploads/2024/01/ChesnaGrotesk-Thin.eot?#iefix') format('embedded-opentype'),
+		url('https://webstein.debaliprtn.com/wp-content/uploads/2024/01/ChesnaGrotesk-Thin.woff2') format('woff2'),
+		url('https://webstein.debaliprtn.com/wp-content/uploads/2024/01/ChesnaGrotesk-Thin.woff') format('woff'),
+		url('https://webstein.debaliprtn.com/wp-content/uploads/2024/01/ChesnaGrotesk-Thin.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Chesna Grotesk';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('https://webstein.debaliprtn.com/wp-content/uploads/2024/01/ChesnaGrotesk-Regular.eot');
+	src: url('https://webstein.debaliprtn.com/wp-content/uploads/2024/01/ChesnaGrotesk-Regular.eot?#iefix') format('embedded-opentype'),
+		url('https://webstein.debaliprtn.com/wp-content/uploads/2024/01/ChesnaGrotesk-Regular.woff2') format('woff2'),
+		url('https://webstein.debaliprtn.com/wp-content/uploads/2024/01/ChesnaGrotesk-Regular.woff') format('woff'),
+		url('https://webstein.debaliprtn.com/wp-content/uploads/2024/01/ChesnaGrotesk-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Chesna Grotesk';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('https://webstein.debaliprtn.com/wp-content/uploads/2024/01/ChesnaGrotesk-Book.eot');
+	src: url('https://webstein.debaliprtn.com/wp-content/uploads/2024/01/ChesnaGrotesk-Book.eot?#iefix') format('embedded-opentype'),
+		url('https://webstein.debaliprtn.com/wp-content/uploads/2024/01/ChesnaGrotesk-Book.woff2') format('woff2'),
+		url('https://webstein.debaliprtn.com/wp-content/uploads/2024/01/ChesnaGrotesk-Book.woff') format('woff'),
+		url('https://webstein.debaliprtn.com/wp-content/uploads/2024/01/ChesnaGrotesk-Book.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Chesna Grotesk';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('https://webstein.debaliprtn.com/wp-content/uploads/2024/01/ChesnaGrotesk-SemiBold.eot');
+	src: url('https://webstein.debaliprtn.com/wp-content/uploads/2024/01/ChesnaGrotesk-SemiBold.eot?#iefix') format('embedded-opentype'),
+		url('https://webstein.debaliprtn.com/wp-content/uploads/2024/01/ChesnaGrotesk-SemiBold.woff2') format('woff2'),
+		url('https://webstein.debaliprtn.com/wp-content/uploads/2024/01/ChesnaGrotesk-SemiBold.woff') format('woff'),
+		url('https://webstein.debaliprtn.com/wp-content/uploads/2024/01/ChesnaGrotesk-SemiBold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Chesna Grotesk';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('https://webstein.debaliprtn.com/wp-content/uploads/2024/01/ChesnaGrotesk-Bold.eot');
+	src: url('https://webstein.debaliprtn.com/wp-content/uploads/2024/01/ChesnaGrotesk-Bold.eot?#iefix') format('embedded-opentype'),
+		url('https://webstein.debaliprtn.com/wp-content/uploads/2024/01/ChesnaGrotesk-Bold.woff2') format('woff2'),
+		url('https://webstein.debaliprtn.com/wp-content/uploads/2024/01/ChesnaGrotesk-Bold.woff') format('woff'),
+		url('https://webstein.debaliprtn.com/wp-content/uploads/2024/01/ChesnaGrotesk-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Chesna Grotesk';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('https://webstein.debaliprtn.com/wp-content/uploads/2024/01/ChesnaGrotesk-Black.eot');
+	src: url('https://webstein.debaliprtn.com/wp-content/uploads/2024/01/ChesnaGrotesk-Black.eot?#iefix') format('embedded-opentype'),
+		url('https://webstein.debaliprtn.com/wp-content/uploads/2024/01/ChesnaGrotesk-Black.woff2') format('woff2'),
+		url('https://webstein.debaliprtn.com/wp-content/uploads/2024/01/ChesnaGrotesk-Black.woff') format('woff'),
+		url('https://webstein.debaliprtn.com/wp-content/uploads/2024/01/ChesnaGrotesk-Black.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */

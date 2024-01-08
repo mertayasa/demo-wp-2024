@@ -1,0 +1,32 @@
+------------------------------------------------------------
+  Plugin list generated with BackWPup version: 4.0.2
+  http://backwpup.com
+  Blog Name: No Probs - Professional Plumber in Perth
+  Blog URL: https://webstein.debaliprtn.com
+  Generated on: 2024-01-08 09:23.21
+------------------------------------------------------------
+
+
+All plugin information:
+------------------------------
+Akismet Anti-spam: Spam Protection (v.5.3) from Automattic - Anti-spam Team
+	https://akismet.com/
+BackWPup (v.4.0.2) from WP MEDIA SAS
+	http://backwpup.com
+Elementor (v.3.18.3) from Elementor.com
+	https://elementor.com/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash
+Hello Dolly (v.1.7.2) from Matt Mullenweg
+	http://wordpress.org/plugins/hello-dolly/
+PRO Elements (v.3.18.1) from PROElements.org
+	https://proelements.org/
+
+Active plugins:
+------------------------------
+BackWPup
+Elementor
+PRO Elements
+
+Inactive plugins:
+------------------------------
+Akismet Anti-spam: Spam Protection
+Hello Dolly
